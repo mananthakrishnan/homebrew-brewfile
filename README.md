@@ -1,4 +1,4 @@
-# Brian's Brewfile
+# Brewfile
 
 Below are instructions for things that can't be automated.
 
